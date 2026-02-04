@@ -18,7 +18,7 @@ GOOGLE_SHEET_NAME = os.getenv("GOOGLE_SHEET_NAME", "Sheet1")
 # -------------------------------------------------
 # CONFIG
 # -------------------------------------------------
-USINESS_QUERIES = [
+BUSINESS_QUERIES = [
     "Fire Door Manufacturing Service in",
     "Fire Door Installation Service in",
     "Fire Door Installer Service in",
