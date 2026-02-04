@@ -18,12 +18,12 @@ GOOGLE_SHEET_NAME = os.getenv("GOOGLE_SHEET_NAME", "Sheet1")
 # -------------------------------------------------
 # CONFIG
 # -------------------------------------------------
-BUSINESS_QUERIES = [
-    "Passive Fire Protection Service in",
-    "Fireproofing Installation Service in",
-    "Fire Safety Compliance Service in",
-    "Fire Barrier Installation Service in",
-    "Passive Fire System Maintenance Service in",
+USINESS_QUERIES = [
+    "Fire Door Manufacturing Service in",
+    "Fire Door Installation Service in",
+    "Fire Door Installer Service in",
+    "Fire Door Maintenance Service in",
+    "Fire Door Inspection and Maintenance Service in",
 ]
 
 MAX_SCROLLS = 50
