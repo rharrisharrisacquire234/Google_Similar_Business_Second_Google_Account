@@ -19,9 +19,9 @@ GOOGLE_SHEET_NAME = os.getenv("GOOGLE_SHEET_NAME", "Sheet1")
 # CONFIG
 # -------------------------------------------------
 BUSINESS_QUERIES = [
-    "Grounds and Vegetation Maintenance Service in",
-    "Environmental Vegetation Management Service in",
-    "Site Clearance and Vegetation Control Service in",
+    "Corrugated Box Manufacturer in",
+    "Cardboard Box Manufacturer in",
+    "Custom Packaging Manufacturer in",
 ]
 
 MAX_SCROLLS = 50
