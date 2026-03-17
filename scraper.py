@@ -19,11 +19,11 @@ GOOGLE_SHEET_NAME = os.getenv("GOOGLE_SHEET_NAME", "Sheet1")
 # CONFIG
 # -------------------------------------------------
 BUSINESS_QUERIES = [
-    "Transport Company in",
-    "Haulage Service in",
-    "Heavy Haulage Service in",
-    "Cargo Transportation Service in",
-    "Freight Trucking Service in",
+    "Long Haul Trucking Service in",
+    "Short Haul Trucking Service in",
+    "Container Transport Service in",
+    "Rail Freight Service in",
+    "Railroad Transportation Service in",
 ]
 
 MAX_SCROLLS = 10
